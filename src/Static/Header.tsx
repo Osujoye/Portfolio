@@ -43,7 +43,7 @@ const Header = () => {
         </section>
       </section>
 
-      <div>{toggle && <SideBar handleToggle={handleToggle} />}</div>
+{/*       <div>{toggle && <SideBar handleToggle={handleToggle} }</div/> */}
     </>
   );
 };
