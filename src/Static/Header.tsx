@@ -1,6 +1,6 @@
 import { RxHamburgerMenu, RxCross1 } from "react-icons/rx";
 import { NavLink } from "react-router-dom";
-import SideBar from "../Static/SideBar";
+// import SideBar from "../Static/SideBar";
 import { useState } from "react";
 
 const Header = () => {
